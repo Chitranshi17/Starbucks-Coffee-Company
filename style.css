@@ -112,7 +112,7 @@
 .left-star1{
     width: 50%;
     height: 450px;
-    background: url(/Starbucks_Coffee/image/1.webp);
+    background: url("./image/1.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -178,7 +178,7 @@
 .right-star2{
     width: 50%;
     height: 700px;
-    background: url(/Starbucks_Coffee/image/2.jpg);
+    background: url("./image/2.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -227,7 +227,7 @@
 .left-star3{
     width: 50%;
     height: 700px;
-    background: url(/Starbucks_Coffee/image/3.jpg);
+    background: url("./image/3.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -269,7 +269,7 @@
 .right-star4{
     width: 50%;
     height: 700px;
-    background: url(/Starbucks_Coffee/image/4.jpg);
+    background: url("./image/4.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -299,7 +299,7 @@
 .left-star5{
     width: 50%;
     height: 300px;
-    background: url(/Starbucks_Coffee/image/5.webp);
+    background: url("./image/5.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -342,7 +342,7 @@
 .right-star6{
     width: 50%;
     height: 500px;
-    background: url(/Starbucks_Coffee/image/6.jpg);
+    background: url("./image/6.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
